@@ -1,0 +1,2 @@
+1. Install pyqt
+sudo apt-get install libxcb-cursor0
